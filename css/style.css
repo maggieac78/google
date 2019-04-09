@@ -1,0 +1,118 @@
+#logo {
+    text-align: center;
+}
+
+.navigation {
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color: rgba(0,0,0,0.87);
+}
+
+a:link {
+    color:rgba(0,0,0,0.87)
+}
+
+a:visited {
+    color:rgba(0,0,0,0.87)
+}
+
+a:hover {
+    color:rgba(0,0,0,0.87)
+}
+
+a:active {
+    color:rgba(0,0,0,0.87)
+}
+
+.navigation1 {
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 15px;
+}
+
+.navigation2 {
+    text-align: center;
+    padding-right: 15px;
+}
+
+.navigation3 {
+    padding-right: 15px;
+    padding-bottom: -5px;
+    vertical-align: middle;
+}
+
+.navigation4 {
+    padding-right: 30px;
+    padding-bottom: -5px;
+    vertical-align: middle;
+}
+
+#search {
+    text-align: center;
+}
+
+.search_bar {
+    width: 484px;
+    height: 46px;
+    text-align: left;
+    border-radius: 24px;
+    border-width: 1.5px;
+    border-color: rgb(242, 242, 242);
+}
+
+.button {
+    height: 34px;
+    padding-left: 16px;
+    padding-right: 16px;
+    font-size: 14px;
+    color: #5F6368;
+    background-color: #f2f2f2;
+    border-radius: 4px;
+    margin: 11px 4px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-color: #f2f2f2;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+
+.footer1 {
+    font-size: 15px; 
+}
+
+.footer4 {
+    padding-left: 27px;
+    padding-top: 15px;
+    padding-bottom: 8px;
+    color: rgba(0,0,0,.54);
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f2f2f2;
+    border-top-color: #5F6368;
+    border-top-width: 1px;
+}
+
+#footer2 {
+    padding-left: 27px;
+    padding-right: -5px;
+    font-size: 13px; 
+    padding-top: 7px;
+    padding-bottom: 15px;
+    color: rgba(0,0,0,.54);
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f2f2f2;
+}
+
+#footer3 {
+    padding-right: 27px;
+    padding-left: 787px;
+    padding-top: 7px;
+    padding-bottom: 15px;
+    font-size: 13px; 
+    color: rgba(0,0,0,.54);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: right;
+    background-color: #f2f2f2;
+}
